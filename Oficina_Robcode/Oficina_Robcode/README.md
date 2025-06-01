@@ -1,15 +1,22 @@
-## 🤖 Sobre o Robocode
+Sobre o Robocode:
 
-**Robocode** é uma plataforma educacional e um jogo de programação onde o objetivo é desenvolver robôs de batalha que lutam entre si em uma arena virtual. O foco principal está em ensinar lógica de programação, inteligência artificial básica e estratégias algorítmicas de forma divertida e prática.
+Robocode é uma ferramenta educacional combinada com um jogo, onde o objetivo é criar robôs de combate que se enfrentam em uma arena virtual. A proposta principal é ensinar programação, lógica e estratégias de forma prática e divertida.
 
-### 📌 Como funciona
+Como funciona:
 
-No Robocode, você não controla diretamente o robô. Em vez disso, você escreve o código que define seu comportamento: movimentação, mira, desvio de balas, estratégias de combate, etc. Durante as batalhas, os robôs executam os comandos programados e competem automaticamente uns contra os outros.
+No Robocode, o jogador não controla o robô diretamente. Em vez disso, escreve o código que determina como ele deve agir: como se mover, mirar, desviar de disparos e adotar táticas durante os combates. Quando a batalha começa, os robôs executam automaticamente as instruções programadas e competem entre si.
 
-### 💻 Linguagem utilizada
+Linguagem utilizada:
 
-O Robocode utiliza a linguagem **Java** como base para programação dos robôs. Também é possível usar linguagens compatíveis com a **Java Virtual Machine (JVM)**, como Kotlin ou Scala. Existe ainda uma versão alternativa chamada *Robocode for .NET*, que permite o uso de linguagens como C#.
+A linguagem principal usada para programar no Robocode é Java. Também é possível utilizar outras linguagens que funcionam com a Máquina Virtual Java (JVM), como Kotlin e Scala. Há ainda uma versão alternativa chamada Robocode for .NET, que permite a programação em C#, entre outras linguagens da plataforma .NET.
 
-### 📚 Sobre este projeto
+Sobre este projeto:
 
-Este robô foi desenvolvido como parte de um **curso de Robocode**, com o objetivo de aplicar os conceitos aprendidos sobre programação orientada a objetos, lógica de controle, e movimentação em ambiente simulado.
+Este robô foi criado como parte de um curso voltado ao Robocode, com o propósito de aplicar conhecimentos sobre programação orientada a objetos, lógica de controle e movimentação em um ambiente simulado.
+
+
+
+
+
+
+
